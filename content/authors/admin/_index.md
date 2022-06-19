@@ -1,6 +1,6 @@
 ---
 role: Master of Mechanical Engineering
-avatar_filename: icagxw.jpg
+avatar_filename: icagxw-copy.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
