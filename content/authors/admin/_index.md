@@ -23,7 +23,7 @@ organizations:
     url: https://www.nus.edu.sg/
 education:
   courses:
-    - course: MsC in Mechanical Engineering
+    - course: MSc in Mechanical Engineering
       institution: National Unversity of Singapore
       year: 2022
     - course: BSc in Mechanical Engineering
