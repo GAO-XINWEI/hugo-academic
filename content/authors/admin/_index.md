@@ -34,9 +34,8 @@ highlight_name: true
 title: Gao Xinwei
 email: sherwingao625@gmail.com
 ---
+Gao Xinwei is a research assistant in artificial intelligence at the Nanyang Technological University. His research interests include d reinforcement learning, distributed robotics, and trustworthy AI. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+高南洋理工大学人工智能研究助理。他的研究兴趣包括强化学习、分布式机器人和可信人工智能
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
