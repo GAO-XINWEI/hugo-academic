@@ -28,6 +28,10 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
+  - description: C++
+    icon: fa-code-simple
+    icon_pack: fa-solid
+    name: Language
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
