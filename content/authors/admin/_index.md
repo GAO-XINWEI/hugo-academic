@@ -20,8 +20,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/sherwin-xinwei-gao
 organizations:
-  - name: National Unversity of Singapore
-    url: https://www.nus.edu.sg/
+  - name: Nanyang Technological University
+    url: https://www.ntu.edu.sg/
 education:
   courses:
     - course: MSc in Mechanical Engineering
