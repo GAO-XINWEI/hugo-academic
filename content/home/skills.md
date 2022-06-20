@@ -29,7 +29,7 @@ feature:
     icon_pack: fas
     name: Photography
   - description: C++
-    icon: fa-code-simple
+    icon: fa-code
     icon_pack: fa-solid
     name: Language
 # Uncomment to use emoji icons.
