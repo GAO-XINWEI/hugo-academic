@@ -30,7 +30,7 @@ feature:
     name: Photography
   - description: C++
     icon: fa-code
-    icon_pack: far
+    icon_pack: fas
     name: Language
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
