@@ -25,7 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: e0816524@u.nus.edu / sherwingao625@gmail.com
+  email: e0816524@u.nus.edu
+  email: sherwingao625@gmail.com
   phone: +65 93750028 / +86 18852095168
   contact_links:
     - icon: twitter
