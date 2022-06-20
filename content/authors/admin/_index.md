@@ -4,6 +4,7 @@ avatar_filename: icagxw-copy.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
+  - Trustworthy AI
   - Robot Control
   - Multi-agent Cooperation
   - Reinforcement Learning
@@ -34,8 +35,8 @@ highlight_name: true
 title: Gao Xinwei
 email: sherwingao625@gmail.com
 ---
-Gao Xinwei is a research assistant in artificial intelligence at the Nanyang Technological University. His research interests include d reinforcement learning, distributed robotics, and trustworthy AI. 
+Gao Xinwei is a research assistant in artificial intelligence at the Nanyang Technological University. His research interests include d reinforcement learning, distributed robotics, and trustworthy AI. He received his master's degree from the National University of Singapore in 2022 and his bachelor's degree from the Nanjing University of Science and Technology in 2021.
 
-高南洋理工大学人工智能研究助理。他的研究兴趣包括强化学习、分布式机器人和可信人工智能
+高新威是南洋理工大学人工智能研究助理。他的研究兴趣包括强化学习、分布式机器人和可信工智能。他于2022年在新加坡国立大学取得硕士学位，2021年在南京理工大学获得学士学位。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
