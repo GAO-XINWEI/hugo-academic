@@ -1,13 +1,13 @@
 ---
 role: Research Assistant
-avatar_filename: icagxw-copy.jpg
+avatar_filename: ""
 bio: My research interests include trustworthy AI, robot control, multi-agent
   cooperation, reinforcement learning.
 interests:
   - Trustworthy AI
-  - Robot Control
   - Multi-agent Cooperation
   - Reinforcement Learning
+  - Robot Control
   - Artificial Intelligence
 social:
   - icon: envelope
@@ -19,6 +19,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sherwin-xinwei-gao
+  - display:
+      header: false
+    link: https://twitter.com/SherwinGao
+    icon_pack: fab
+    icon: twitter
 organizations:
   - name: Nanyang Technological University
     url: https://www.ntu.edu.sg/
