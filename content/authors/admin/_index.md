@@ -1,8 +1,8 @@
 ---
-role: Master of Mechanical Engineering
+role: Research Assistant
 avatar_filename: icagxw-copy.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include trustworthy AI, robot control, multi-agent
+  cooperation, reinforcement learning.
 interests:
   - Trustworthy AI
   - Robot Control
@@ -18,7 +18,7 @@ social:
     link: https://github.com/GAO-XINWEI
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/sherwin-xinwei-gao
+    link: https://www.linkedin.com/in/sherwin-xinwei-gao
 organizations:
   - name: National Unversity of Singapore
     url: https://www.nus.edu.sg/
@@ -29,6 +29,9 @@ education:
       year: 2022
     - course: BSc in Mechanical Engineering
       institution: Nanjing University of Science and Technology
+      year: 2021
+    - course: Exchange Program
+      institution: NUS (Suzhou) Research Institute
       year: 2021
 superuser: true
 highlight_name: true
