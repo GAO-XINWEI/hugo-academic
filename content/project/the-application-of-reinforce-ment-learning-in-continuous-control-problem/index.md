@@ -5,6 +5,7 @@ draft: false
 featured: false
 authors:
   - admin
+  - Chew Chee Meng
 categories:
   - Contionous Control
   - Reinforcement Learning
