@@ -2,6 +2,8 @@
 slides: example
 url_pdf: ""
 summary: ""
+authors:
+  - admin
 url_video: ""
 date: 2022-06-20T04:00:23.721Z
 external_link: ""
