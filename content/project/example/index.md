@@ -3,7 +3,7 @@ slides: example
 url_pdf: ""
 summary: ""
 url_video: ""
-date: 2022-06-20T01:08:23.721Z
+date: 2022-06-20T04:00:23.721Z
 external_link: ""
 url_slides: ""
 title: Design of Dynamic Object Recognition Based on Deep Learning
