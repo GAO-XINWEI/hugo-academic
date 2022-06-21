@@ -8,6 +8,7 @@ external_link: ""
 url_slides: ""
 title: Design of Dynamic Object Recognition Based on Deep Learning
 tags:
+  - Classification
   - Computer Version
   - Nerual Network
   - Deep Learning
