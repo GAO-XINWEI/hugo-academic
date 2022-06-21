@@ -46,8 +46,8 @@ feature:
     name: CAD
   - description: |2-
         * Unity
-    icon: fa-code
-    icon_pack: fas
+    icon: gamepad-solid
+    icon_pack: custom
     name: Game Development
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
