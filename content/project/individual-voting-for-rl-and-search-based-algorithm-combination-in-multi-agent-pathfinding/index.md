@@ -4,6 +4,8 @@ title: Individual Voting for RL and Search-based Algorithm Combination in
 date: 2022-04-20T04:00:00.819Z
 draft: false
 featured: false
+authors:
+  - admin
 categories:
   - Multi-agent Pathfinding
   - Robot Cooperation
