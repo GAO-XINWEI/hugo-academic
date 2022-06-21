@@ -21,5 +21,4 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-This project aims to realize the classification and dynamic tracking of workpieces using portable computing equipment providing spatial information for intelligent manufacturing in the
-production line process.
+This project aims to realize the classification and dynamic tracking of workpieces using portable computing equipment providing spatial information for intelligent manufacturing in the production line process.
