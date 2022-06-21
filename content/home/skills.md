@@ -20,8 +20,8 @@ feature:
         * Python
         * C++
         * R
-    icon: r-project
-    icon_pack: fab
+    icon: code-solid
+    icon_pack: custom
     name: Languages
   - description: |2-
         * Pytorch
@@ -35,14 +35,14 @@ feature:
         * Windows
         * Linux
         * MacOS
-    icon: camera-retro
-    icon_pack: fas
+    icon: server-solid
+    icon_pack: custom
     name: OS
   - description: |2-
         * AutoCAD
         * SolidWorks
-    icon: fa-code
-    icon_pack: fas
+    icon: gears-solid
+    icon_pack: custom
     name: CAD
   - description: |2-
         * Unity
