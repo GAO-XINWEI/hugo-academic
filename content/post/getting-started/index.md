@@ -22,7 +22,7 @@ image:
 ## First Post for Welcome!
 Dear all,
 
-Hi, welcome to my website!👋 I will begin to build and maintain this website from today. Thank you for visiting. I will continous to update my information for you to check.
+Hi, welcome to my website!👋 I will begin to build and maintain this website from today. Thank you for visiting! I will continous to update my information for you to check.
 
 For cooperation, please send a message to my private email address. You can also connect with me on social platforms by following me on Twitter.
 
