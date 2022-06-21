@@ -1,5 +1,5 @@
 ---
-role: Research Assistant
+role: Research Associate
 avatar_filename: ""
 bio: My research interests include trustworthy AI, robot control, multi-agent
   cooperation, reinforcement learning.
@@ -43,7 +43,7 @@ highlight_name: true
 title: Gao Xinwei
 email: sherwingao625@gmail.com
 ---
-Gao Xinwei is a research assistant in artificial intelligence at the Nanyang Technological University. His research interests include d reinforcement learning, distributed robotics, and trustworthy AI. He received his master's degree from the National University of Singapore in 2022 and his bachelor's degree from the Nanjing University of Science and Technology in 2021.
+Gao Xinwei is a research associate in artificial intelligence at the Nanyang Technological University. His research interests include d reinforcement learning, distributed robotics, and trustworthy AI. He received his master's degree from the National University of Singapore in 2022 and his bachelor's degree from the Nanjing University of Science and Technology in 2021.
 
 高新威是南洋理工大学人工智能研究助理。他的研究兴趣包括强化学习、分布式机器人和可信工智能。他于2022年在新加坡国立大学取得硕士学位，2021年在南京理工大学获得学士学位。
 
