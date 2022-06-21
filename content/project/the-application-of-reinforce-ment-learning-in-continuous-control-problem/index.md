@@ -1,5 +1,5 @@
 ---
-title: The Application of Reinforce ment Learning in Continuous Control Problem
+title: The Application of Reinforcement Learning in Continuous Control Problem
 date: 2021-05-20T04:00:18.017Z
 draft: false
 featured: false
