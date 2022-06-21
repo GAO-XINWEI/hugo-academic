@@ -25,7 +25,7 @@ experience:
   - title: Research Associates
     company: Nanyang Technologyical University
     company_url: ''
-    company_logo: org-gc
+    company_logo: NTU_word
     location: Singapore
     date_start: '2022-08-20'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Student Researcher
     company: National University of Singapore
     company_url: ''
-    company_logo: org-x
+    company_logo: NUS_word
     location: Singapore
     date_start: '2022-04-20'
     date_end: '2022-05-20'
