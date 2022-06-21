@@ -1,9 +1,13 @@
 ---
 title: Individual Voting for RL and Search-based Algorithm Combination in
   Multi-agent Pathfinding
-date: 2022-04-20T13:47:00.819Z
+date: 2022-04-20T04:00:00.819Z
 draft: false
 featured: false
+categories:
+  - Multi-agent Pathfinding
+  - Robot Cooperation
+  - Reinforcement Learning
 image:
   filename: featured
   focal_point: Smart
