@@ -25,7 +25,11 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: |2-
-      10%
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
     icon: camera-retro
     icon_pack: fas
     name: Photography
