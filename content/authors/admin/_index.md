@@ -1,6 +1,6 @@
 ---
 role: Research Associate
-avatar_filename: ""
+avatar_filename: template.jpg
 bio: My research interests include trustworthy AI, robot control, multi-agent
   cooperation, reinforcement learning.
 interests:
