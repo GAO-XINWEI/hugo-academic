@@ -17,6 +17,11 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: |2-
+        * Unity
+    icon: gamepad-solid
+    icon_pack: custom
+    name: Game Development
+  - description: |2-
         * Python
         * C++
         * R
@@ -44,11 +49,6 @@ feature:
     icon: gears-solid
     icon_pack: custom
     name: CAD
-  - description: |2-
-        * Unity
-    icon: gamepad-solid
-    icon_pack: custom
-    name: Game Development
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
