@@ -6,6 +6,7 @@ draft: false
 featured: false
 authors:
   - admin
+  - Guillaume SARTORETTI
 categories:
   - Multi-agent Pathfinding
   - Robot Cooperation
