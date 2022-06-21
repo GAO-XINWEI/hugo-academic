@@ -17,11 +17,6 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: |2-
-        * Unity
-    icon: gamepad-solid
-    icon_pack: custom
-    name: Game Development
-  - description: |2-
         * Python
         * C++
         * R
@@ -33,8 +28,8 @@ feature:
         * Tensorflow
         * MATLAB
         * ROS
-    icon: chart-line
-    icon_pack: fas
+    icon: chart-line-solid
+    icon_pack: custom
     name: Scientific Packages
   - description: |2-
         * Windows
@@ -49,6 +44,12 @@ feature:
     icon: gears-solid
     icon_pack: custom
     name: CAD
+  - description: |2-
+        * Unity
+    icon: gamepad-solid
+    icon_pack: custom
+    name: Game Development
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
