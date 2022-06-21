@@ -16,27 +16,39 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: |2-
+        * Python
+        * C++
+        * R
     icon: r-project
     icon_pack: fab
-    name: R
-  - description: 100%
+    name: Languages
+  - description: |2-
+        * Pytorch
+        * Tensorflow
+        * MATLAB
+        * ROS
     icon: chart-line
     icon_pack: fas
-    name: Statistics
+    name: Scientific Packages
   - description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Windows
+        * Linux
+        * MacOS
     icon: camera-retro
     icon_pack: fas
-    name: Photography
-  - description: C++
+    name: OS
+  - description: |2-
+        * AutoCAD
+        * SolidWorks
     icon: fa-code
     icon_pack: fas
-    name: Language
+    name: CAD
+  - description: |2-
+        * Unity
+    icon: fa-code
+    icon_pack: fas
+    name: Game Development
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
