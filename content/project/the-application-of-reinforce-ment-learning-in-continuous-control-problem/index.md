@@ -3,6 +3,11 @@ title: The Application of Reinforcement Learning in Continuous Control Problem
 date: 2021-05-20T04:00:18.017Z
 draft: false
 featured: false
+categories:
+  - Contionous Control
+  - Reinforcement Learning
+  - Nerual Network
+  - Deep Learning
 image:
   filename: featured
   focal_point: Smart
